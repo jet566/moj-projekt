@@ -1,7 +1,7 @@
 body {
-background-color: #ffebee;
-color: #c62828;
+  background-color: #e3f2fd; /* Z niebieskiej */
+  color: #c62828; /* Z czerwonej */
 }
 h1 {
-color: #d32f2f;
+  color: #1976d2; /* Z niebieskiej */
 }
